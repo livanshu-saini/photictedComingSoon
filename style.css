@@ -79,6 +79,9 @@ footer{
         height: 400px;
         width: 400px;
     }
+    .container{
+        min-height: 90vh;
+    }
 }
 @media screen and (max-width:380px) {
     .container > div img{
